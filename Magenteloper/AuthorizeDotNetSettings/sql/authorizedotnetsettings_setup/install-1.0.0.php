@@ -13,13 +13,13 @@
 $installer = $this;
 
 /**
- * Creating table magenteloper_paymentsettings
+ * Creating table magenteloper_authorizedotnetsettings
  */
 
 
 /*
 $table = $installer->getConnection()
-   ->newTable($installer->getTable('magenteloper_paymentsettings/paymentsettings'))
+   ->newTable($installer->getTable('magenteloper_authorizedotnetsettings/authorizedotnetsettings'))
    ->addColumn();
 */
 
