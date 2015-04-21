@@ -2,7 +2,7 @@
 
   test module.
   
-  Magenteloper/AuthorizeDotNetSettings/sql/authorizedotnetsettings_setup/ : Contains script to update the database.
+  Magenteloper/AuthorizeDotNetSettings/sql/authorizedotnetsettings_setup/ : script to update the database.
   
   config files:
   
